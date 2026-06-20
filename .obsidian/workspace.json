@@ -53,12 +53,14 @@
             "id": "8925f63ee20bd6a5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "raw/assets/agent_harness_engineering.jpg"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "agent_harness_engineering"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -226,13 +228,13 @@
   },
   "active": "8925f63ee20bd6a5",
   "lastOpenFiles": [
+    "raw/notes/2026-06-20-agent-harness-engineering-full-stack.md",
     "index.md",
+    "raw/assets/agent_harness_engineering.jpg",
     "wiki/entities/Agent 安全治理.md",
     "wiki/entities/Agent Runtime.md",
     "wiki/entities/Agent Harness.md",
-    "raw/notes/2026-06-20-agent-harness-engineering-full-stack.md",
     "wiki/topics/AI Agent 全栈工程.md",
-    "raw/assets/agent_harness_engineering.jpg",
     "AI Agent 全栈工程.md",
     "wiki/overview.md",
     "log.md",
