@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "300852a753a42fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b417285880993a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b825a06336eb54c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/topics/AI Agent 全栈工程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Agent 全栈工程"
+            }
+          },
+          {
+            "id": "0aacec515a53fba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/entities/Agent Harness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent Harness"
+            }
+          },
+          {
+            "id": "1c57099990cb6460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/entities/Agent Runtime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent Runtime"
+            }
+          },
+          {
+            "id": "8925f63ee20bd6a5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "raw/assets/agent_harness_engineering.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "agent_harness_engineering"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc012b3477a617a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e85cc236bd2cb57b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf91993610d875d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b30cecb04b455f23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "de405ec055b5a44c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8750b394a6d09c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "99addd6213a6aac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2aa1e2466f76d8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/assets/agent_harness_engineering.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "agent_harness_engineering 的反向链接列表"
+            }
+          },
+          {
+            "id": "6ff4496f163cc902",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/assets/agent_harness_engineering.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "agent_harness_engineering 的出链列表"
+            }
+          },
+          {
+            "id": "3df1c9912751bc4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b9504a2fc4754ceb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "66adb7e94cbf12fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/assets/agent_harness_engineering.jpg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "agent_harness_engineering 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "8925f63ee20bd6a5",
+  "lastOpenFiles": [
+    "index.md",
+    "wiki/entities/Agent 安全治理.md",
+    "wiki/entities/Agent Runtime.md",
+    "wiki/entities/Agent Harness.md",
+    "raw/notes/2026-06-20-agent-harness-engineering-full-stack.md",
+    "wiki/topics/AI Agent 全栈工程.md",
+    "raw/assets/agent_harness_engineering.jpg",
+    "AI Agent 全栈工程.md",
+    "wiki/overview.md",
+    "log.md",
+    "README.md",
+    "wiki/sources/2026-06-20-agent-harness-engineering-full-stack.md",
+    "wiki/entities/Agent DevOps.md",
+    "wiki/entities/Agent 可观测性.md"
+  ]
+}
