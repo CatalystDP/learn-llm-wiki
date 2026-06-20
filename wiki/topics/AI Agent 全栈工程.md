@@ -2,7 +2,7 @@
 tags: [主题, AI-Agent, 系统工程]
 created: 2026-06-20
 updated: 2026-06-20
-sources: ["[[2026-06-20-agent-harness-engineering-full-stack]]"]
+sources: ["[[2026-06-20-agent-harness-engineering-full-stack]]", "[[2026-06-20-rag-full-stack]]"]
 ---
 
 # AI Agent 全栈工程
@@ -16,12 +16,14 @@ sources: ["[[2026-06-20-agent-harness-engineering-full-stack]]"]
 3. **能力与数据共同约束效果**：模型、工具、知识检索和数据治理共同决定 Agent 能知道什么、能做什么以及结果是否可信。
 4. **横切能力决定生产成熟度**：[[Agent 可观测性]]解释行为，[[Agent 安全治理]]限制风险，[[Agent DevOps]]把反馈转成可验证的改进。
 5. **架构图是检查表，不是采购清单**：应按业务风险和规模逐层补齐能力，避免为技术完整性引入不必要复杂度。
+6. **RAG 往往是 Agent 的知识子系统**：当任务依赖企业知识、长文档或外部证据时，[[RAG 全栈工程]]提供数据处理、检索与引用能力，为 Agent 决策提供可信上下文。
 
 ## 素材汇总
 
 | 素材 | 核心贡献 | 详见 |
 |------|----------|------|
 | Agent Harness Engineering 全栈开发技术 | 提供从应用到交付治理的九层能力地图及五项最佳实践 | [[2026-06-20-agent-harness-engineering-full-stack|素材摘要]] |
+| RAG 全栈开发技术全景图 | 补足 Agent 体系中的知识获取、数据处理、检索评测与引用链路 | [[2026-06-20-rag-full-stack|素材摘要]] |
 
 ## 关键概念
 
@@ -30,6 +32,7 @@ sources: ["[[2026-06-20-agent-harness-engineering-full-stack]]"]
 - [[Agent 可观测性]] — 连接技术运行信号、任务结果和用户反馈。
 - [[Agent 安全治理]] — 约束身份、数据、网络、模型行为与审计。
 - [[Agent DevOps]] — 形成从开发到线上反馈的持续迭代闭环。
+- [[RAG 全栈工程]] — 为知识密集型 Agent 提供数据、检索、评测与引用基础设施。
 
 ## 分层落地顺序
 
@@ -51,8 +54,10 @@ sources: ["[[2026-06-20-agent-harness-engineering-full-stack]]"]
 ## 相关页面
 
 - [[2026-06-20-agent-harness-engineering-full-stack|Agent Harness Engineering 全栈开发技术]]
+- [[2026-06-20-rag-full-stack|RAG 全栈开发技术全景图]]
 - [[Agent Harness]]
 - [[Agent Runtime]]
 - [[Agent 可观测性]]
 - [[Agent 安全治理]]
 - [[Agent DevOps]]
+- [[RAG 全栈工程]]

@@ -23,6 +23,11 @@
 - [[AI Agent 全栈工程]]
   - 编排与执行：[[Agent Harness]]、[[Agent Runtime]]
   - 生产治理：[[Agent 可观测性]]、[[Agent 安全治理]]、[[Agent DevOps]]
+  - 知识子系统：[[RAG 全栈工程]]
+- [[RAG 全栈工程]]
+  - 检索链路：[[RAG 检索增强]]
+  - 数据基础：[[RAG 数据处理管道]]
+  - 运营闭环：[[RAG 评测与优化]]
 
 ---
 
@@ -30,9 +35,9 @@
 
 | 类型 | 数量 | 查看 |
 |------|------|------|
-| 素材 | 1 | [[2026-06-20-agent-harness-engineering-full-stack|Agent Harness Engineering 全栈开发技术]] |
-| 实体 | 5 | [[Agent Harness]] |
-| 主题 | 1 | [[AI Agent 全栈工程]] |
+| 素材 | 2 | [[2026-06-20-rag-full-stack|RAG 全栈开发技术全景图]] |
+| 实体 | 8 | [[RAG 检索增强]] |
+| 主题 | 2 | [[RAG 全栈工程]] |
 | 对比 | 0 | 暂无 |
 | 综合 | 0 | 暂无 |
 
@@ -41,3 +46,4 @@
 ## 最近更新
 
 - 2026-06-20：消化 [[2026-06-20-agent-harness-engineering-full-stack|Agent Harness Engineering 全栈开发技术]]，建立 AI Agent 全栈工程的首批知识骨架。
+- 2026-06-20：消化 [[2026-06-20-rag-full-stack|RAG 全栈开发技术全景图]]，补齐从数据处理到检索评测的 RAG 全栈能力地图。

@@ -17,3 +17,12 @@
 - **新增实体**：[[Agent Harness]]、[[Agent Runtime]]、[[Agent 可观测性]]、[[Agent 安全治理]]、[[Agent DevOps]]
 - **新增主题**：[[AI Agent 全栈工程]]
 - **原始图片**：`raw/assets/agent_harness_engineering.jpg`（已补存并关联素材页）
+
+## 2026-06-20 ingest | RAG 全栈开发技术全景图
+
+- **新增素材**：`raw/notes/2026-06-20-rag-full-stack.md`
+- **新增摘要**：[[2026-06-20-rag-full-stack|RAG 全栈开发技术全景图]]
+- **新增实体**：[[RAG 检索增强]]、[[RAG 数据处理管道]]、[[RAG 评测与优化]]
+- **新增主题**：[[RAG 全栈工程]]
+- **更新主题**：[[AI Agent 全栈工程]]
+- **原始图片**：`raw/assets/rag_full_stack.jpg`（已关联素材页）
