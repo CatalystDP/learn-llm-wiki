@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "wiki/topics/AI Agent 全栈工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "AI Agent 全栈工程"
             }
           }
         ],
@@ -228,13 +228,22 @@
   },
   "active": "8925f63ee20bd6a5",
   "lastOpenFiles": [
-    "raw/notes/2026-06-20-agent-harness-engineering-full-stack.md",
+    "wiki/topics/RAG 全栈工程.md",
+    "wiki/topics/AI Agent 全栈工程.md",
     "index.md",
+    "wiki/sources/2026-06-20-rag-full-stack.md",
+    "wiki/entities/RAG 评测与优化.md",
+    "wiki/entities/RAG 数据处理管道.md",
+    "wiki/entities/RAG 检索增强.md",
+    "tmp/rag-source-content.md",
+    "tmp",
+    "raw/notes/2026-06-20-rag-full-stack.md",
+    "raw/assets/rag_full_stack.jpg",
+    "raw/notes/2026-06-20-agent-harness-engineering-full-stack.md",
     "raw/assets/agent_harness_engineering.jpg",
     "wiki/entities/Agent 安全治理.md",
     "wiki/entities/Agent Runtime.md",
     "wiki/entities/Agent Harness.md",
-    "wiki/topics/AI Agent 全栈工程.md",
     "AI Agent 全栈工程.md",
     "wiki/overview.md",
     "log.md",
